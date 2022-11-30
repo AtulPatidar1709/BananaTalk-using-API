@@ -1,22 +1,8 @@
 
-# Tech Stacks
-- HTML
-- CSS 
-- JAVASCRIPT
-- API-fun translation api
-- Postman for testing
+Project: Minions Speak App
 
-# About
-- Banana Talk is a fun translation app which takes the input and converts into minion language
+Task:
 
-# Demo
-- Please click the below link to try the application 
-
-# https://banatalk.netlify.app/
-
-
-# Features
-- Take user's input
-- Translate the input
-- Displays the output in minion language
-
+Use Minion Fun translation API for the web app
+The app should take in input and translate the input into Minion's language.
+Create the app with your own design.
